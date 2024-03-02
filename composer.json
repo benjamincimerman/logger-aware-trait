@@ -1,5 +1,6 @@
 {
     "name": "duncan3dc/logger-aware-trait",
+    "version": "1.0.0",
     "type": "library",
     "description": "A PSR-3 trait allowing any class to easily add logger support",
     "keywords": ["phpfig", "psr-3", "logging", "logger"],
@@ -12,7 +13,7 @@
         "role": "Developer"
     }],
     "require": {
-        "psr/log": "^1.1.3",
+        "psr/log": "^1.1.3 || ^2 || ^3",
         "php": "^7.3 || ^8.0"
     },
     "require-dev": {

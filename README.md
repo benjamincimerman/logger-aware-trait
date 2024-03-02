@@ -6,6 +6,11 @@ A PSR-3 trait allowing any class to easily add logger support
 [![coverage](https://codecov.io/gh/duncan3dc/logger-aware-trait/graph/badge.svg)](https://codecov.io/gh/duncan3dc/logger-aware-trait)
 
 
+## Fork Upgrades
+--------------
+- upgraded to `psr/log@^1.1.3 || ^2 || ^3`
+
+
 ## Installing
 
 The recommended method of installing this library is via [Composer](//getcomposer.org/).
